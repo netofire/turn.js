@@ -1,8 +1,15 @@
 TURN.JS
 ------------------------------------------------------
-Github: https://github.com/blasten/turn.js
+Github: https://github.com/netofire/turn.js
 Reference: https://github.com/blasten/turn.js/wiki/Reference
 Website: www.turnjs.com 
+
+------------------------------------------------------
+Release 3a - 2018/12/28
+------------------------------------------------------
+
+- Added jQuery 3 support
+
 ------------------------------------------------------
 Release 3 - 2012/03/01
 ------------------------------------------------------
